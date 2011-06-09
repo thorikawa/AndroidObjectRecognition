@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">ObjectRecognition</string>
+	<string name="app_description">app to demo using android camera and recognize
+		specific object.</string>
+</resources>
